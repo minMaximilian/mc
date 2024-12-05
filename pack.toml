@@ -1,0 +1,12 @@
+name = "Trium"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fec90d7982bf1747434f93218a1e3294442e2b2b967214e787b4cbdc4f2785fe"
+
+[versions]
+forge = "47.3.12"
+minecraft = "1.20.1"
